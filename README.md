@@ -10,6 +10,6 @@ Realizzazione di un CRUD
 
 ##### Tecnologie:
 
-PHP, Boostrap (CSS)
+(PHP) (CSS)
 
 
